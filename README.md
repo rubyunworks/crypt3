@@ -1,3 +1,15 @@
+> **This project is retired.**
+>
+> Crypt3 is now part of [Ruby Facets](https://github.com/rubyworks/facets),
+> since Facets 3.2.0 (2026-04): `require 'facets/crypt3'` for the same
+> `Crypt3.crypt`, `Crypt3.check` and `Crypt3.generate_salt`, which produce
+> the same hashes as this gem. This gem is no longer needed.
+>
+> This repository preserves crypt3, last released as 1.1.6 in 2013. It is no
+> longer maintained.
+
+---
+
 # Crypt3
 
 [Website](http://rubyworks.github.com/crypt3) &middot;
